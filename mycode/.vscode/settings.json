@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "pthread.h": "c",
+        "inet.h": "c",
+        "stdlib.h": "c",
+        "socket.h": "c",
+        "err.h": "c",
+        "ssl.h": "c",
+        "type_traits": "c",
+        "unistd.h": "c",
+        "signal.h": "c",
+        "errno.h": "c",
+        "*.tcc": "c",
+        "string_view": "c",
+        "tuple": "c"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}

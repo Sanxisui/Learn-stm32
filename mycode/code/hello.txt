@@ -1,0 +1,15 @@
+.
+..
+.vscode
+Makefile
+change.c
+client
+client.c
+demo.c
+hello.txt
+list.h
+mathmachine
+mathmachine.c
+one.c
+server
+server.c
