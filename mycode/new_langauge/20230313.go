@@ -26,7 +26,8 @@ func main() {
 			f float32
 		}
 	)
+	e.f = 3.3
 	fmt.Println(a, b, c)
-	fmt.Printf("a:%d,b:%s,c:%d\n", a, b, c)
+	fmt.Printf("a:%d,b:%s,c:%d,e.f=%f\n", a, b, c, e.f)
 	// fmt.Printf("a:%c", d)
 }
