@@ -37,6 +37,6 @@ func main() {
 	fmt.Printf("%s\n", b[3])
 	//比较有意思的地方答应数组的首地址，然后答应出来了整个数组
 	fmt.Printf("%d\n", a)
-	var c [5]int = {2, 5, 8, 9, 10}
+	// var c [5]int = {2, 5, 8, 9, 10}
 
 }
