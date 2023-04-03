@@ -14,7 +14,10 @@
         "errno.h": "c",
         "*.tcc": "c",
         "string_view": "c",
-        "tuple": "c"
+        "tuple": "c",
+        "functional": "c",
+        "array": "c",
+        "random": "c"
     },
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true
