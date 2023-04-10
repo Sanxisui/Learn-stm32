@@ -1,0 +1,3 @@
+obj-m := test_one1.o
+test_one1-y += /test_one.o
+ccflags-y := -DMODULE_NAME=\"test_one1\"
