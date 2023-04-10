@@ -12,6 +12,8 @@ include_directories(${KERNELHEADERS_INCLUDE_DIRS})
 set(TARGET test_one.ko)
 set(KBUILD_FILE "obj-m := test_one.o")
 
+
+
 string(FIND ${CMAKE_C_COMPILER} "arm-linux-gnueabihf" res)
 
 if (res GREATER 0)
